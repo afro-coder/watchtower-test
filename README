@@ -2,6 +2,8 @@ Project WatchTower.
 
 Simple Linux Dashboard.
 
+[Will work only on Linux systems, so you can use docker or something similar]
+
 1. Disk Usage.
 2. CPU usage
 3. Uptime
@@ -10,4 +12,7 @@ Parses Linux commands and displays them
 
 How to run
 1. Install composer for dependencies
-2. Install Git obviously lol.
+2. Run composer update.
+3. Run php -S 127.0.0.1:8080
+4. Go to the browser and load 127.0.0.1:8080
+5. Sample Application at => leonnunes.dev/watchtower
