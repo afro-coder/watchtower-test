@@ -11,6 +11,7 @@ Simple Linux Dashboard.
 Parses Linux commands and displays them
 
 How to run
+0. Run git clone https://github.com/leon-nunes/watchtower-test.git
 1. Install composer for dependencies
 2. Run composer update.
 3. Run php -S 127.0.0.1:8080
