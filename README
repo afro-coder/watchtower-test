@@ -1,0 +1,13 @@
+Project WatchTower.
+
+Simple Linux Dashboard.
+
+1. Disk Usage.
+2. CPU usage
+3. Uptime
+
+Parses Linux commands and displays them
+
+How to run
+1. Install composer for dependencies
+2. Install Git obviously lol.
